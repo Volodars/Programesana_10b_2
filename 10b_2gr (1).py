@@ -16,7 +16,7 @@ Siïiòð Deniss
 Skodorovs Vlads
 9 	
 
-print(5+6)
+print(5+6*2)
 Smirnovs Volodars
 10 	
 Verþanovskis Marks
