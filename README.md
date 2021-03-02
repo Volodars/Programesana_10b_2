@@ -1,2 +1,3 @@
 # Programesana_10b_2
-Pirmais darbs ar GitHub
+POtrais darbs ar GitHub
+Es esmu labs programetais
